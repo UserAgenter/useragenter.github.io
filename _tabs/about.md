@@ -189,11 +189,8 @@ print("Proxy List (socks5):", socks5_proxies)
 ---
 
 
-
-icon: fas fa-info-circle
-order: 4
----
-
 > Programmer and owner : [Pymmdrza](https://github.com/Pymmdrza).
-> Website : [Mmdrza.Com](https://mmdrza.com) 
 {: .prompt-tip }
+
+> Website : [Mmdrza.Com](https://mmdrza.com). 
+{: .prompt-note }
