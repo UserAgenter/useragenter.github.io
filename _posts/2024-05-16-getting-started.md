@@ -3,10 +3,10 @@ title: Getting Started
 description: >-
   getting started with UserAgenter in Windows and Mac.
 author: PyMmdrza
-date: 2024-05-16 03:33:00 +0800
-categories: [Blogging, Tutorial]
+date: 2024-05-16 04:16:06 +0800
+categories: [Tutorial]
 tags: [getting started, install user agent, useragent, user agent, proxy]
-pin: false
+pin: true
 
 ---
 
