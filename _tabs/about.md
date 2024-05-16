@@ -193,4 +193,4 @@ print("Proxy List (socks5):", socks5_proxies)
 {: .prompt-tip }
 
 > Website : [Mmdrza.Com](https://mmdrza.com). 
-{: .prompt-note }
+{: .prompt-tip }
